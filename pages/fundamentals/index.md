@@ -1,3 +1,4 @@
+![Screenshot_٢٠٢٥٠٢٢٤-١١٣٨٤٨](https://github.com/user-attachments/assets/b7aeca04-b879-49ba-b959-9d6008714dda)
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
